@@ -1,0 +1,116 @@
+/* CSS Document */
+
+.ehpf_window1 {
+	border: 1px solid #ccc;
+}        
+
+.ehpf_window1 table{
+	width:100%;
+}     
+
+.ehpf_window1 table td{
+	font-size:11px;
+	padding: 2px;
+	margin:1px;
+}          
+
+.ehpf_window2 {
+}  
+
+.divfwindow2{
+	overflow: auto;
+	border: 1px solid #ddd;
+}
+
+.ehpf_table{
+	width:100%;
+	padding:0;
+	margin:0px;
+}    
+
+.ehpf_table tr{
+	width:100%;
+	padding:0;
+}    
+
+.ehpf_tdbg{
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	font-weight:bold;
+	background-color:#EFEFEF;
+}    
+
+.ehpf_window3 {
+	margin: 0px;
+	padding: 0px;
+	float:left;
+	width:100%;
+}
+
+.ehpf_bottom_line {
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+
+
+/* CSS Document */
+
+.ehpf_window1 {
+	border: 1px solid #ccc;
+}        
+
+.ehpf_window1 table{
+	width:100%;
+}     
+
+.ehpf_window1 table td{
+	font-size:11px;
+	padding: 2px;
+	margin:1px;
+}          
+
+.ehpf_window2 {
+}  
+
+.divfwindow2{
+	overflow: auto;
+	border: 1px solid #ddd;
+}
+
+.ehpf_table{
+	width:100%;
+	padding:0;
+	margin:0px;
+}    
+
+.ehpf_table tr{
+	width:100%;
+	padding:0;
+}    
+
+.ehpf_tdbg{
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	font-weight:bold;
+	background-color:#EFEFEF;
+}    
+
+.ehpf_window3 {
+	margin: 0px;
+	padding: 0px;
+	float:left;
+	width:100%;
+}
+
+.ehpf_bottom_line {
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+
+

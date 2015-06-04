@@ -1,0 +1,4 @@
+/* door de scrollbar ruimte te reserveren springt het scherm en de menu's niet zo.' */
+html {
+    overflow-y: scroll;
+}

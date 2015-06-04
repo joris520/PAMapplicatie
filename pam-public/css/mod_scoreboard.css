@@ -1,0 +1,201 @@
+/* CSS Document */
+
+.sb_window1 {
+	overflow: auto;
+	width:100%;
+}
+
+.sb_color_desc{
+	padding:0;
+	margin:0;
+	float:left;
+
+}
+
+.sb_color_desc td{
+	padding:0;
+	margin:0;
+}
+
+.sb_subw1{
+	width: 98%;
+}
+
+.calc_buttons{
+	width: 100%;
+	text-align:right;
+}
+
+.sb_categ{
+	float: left;
+	overflow: auto;
+	border: 1px solid #ddd;
+}
+
+.sb_depts{
+	float: left;
+	overflow: auto;
+	width:100%;
+}
+/*
+.sb_depts select{
+	background-color:#e1e1e1;
+}
+*/
+
+.sb_functs{
+	float: left;
+	overflow: auto;
+	width:100%;
+}
+/*
+.sb_functs select{
+	background-color:#e1e1e1;
+}
+*/
+.sb_emps{
+	float: left;
+	overflow: auto;
+	width:100%;
+}
+
+.sb_select{
+	width:230px;
+	height: 240px;
+}
+
+.scoreTable{
+	width:90%;
+}
+
+.sb_competences{
+	/*border: 1px solid #595959;*/
+	width:100%;
+}
+
+
+
+
+.sb_ksptd{
+	vertical-align:bottom;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11.5px;
+	width:15px;
+}
+
+.sb_ksptd5{
+	vertical-align:bottom;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	width:15px;
+}
+
+.sb_ksptd2{
+	border: 1px solid #595959;
+	vertical-align:bottom;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	width:15px;
+}
+
+.sb_norms{
+}
+
+.sb_normtd{
+	text-align:right;
+	border: 1px solid #595959;
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	width:15px;
+	height:13px;
+}
+
+.sb_score{
+}
+
+.sb_scoretd{
+	text-align:center;
+	border: 1px solid #595959;
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	width:15px;
+	height:15px;
+}
+
+.sb_imgtd{
+	text-align:center;
+	border: 0px;
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	width:15px;
+	height:21px;
+}
+
+.a_emp{
+	border: 0px;
+}
+
+.calcProcTbl{
+	padding:0px;
+	margin:0px;
+	overflow: auto;
+}
+
+
+.standard_tbl {
+	margin:0px;
+	padding:0px 2px;
+	height:13px;
+}
+
+.standard_tbl2{
+	border: 1px solid #595959;
+	margin:0px;
+	padding:0px;
+	height:13px;
+	text-align:right;
+	vertical-align:bottom;
+}
+
+.standard_tbl3{
+	margin:0px;
+	padding:0px;
+	height:13px;
+	text-align:center;
+	vertical-align:bottom;
+}
+
+.sb_ksptd1{
+	text-align:right;
+	border: 1px solid #595959;
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	height:13px;
+}
+
+.sb_clustertd{
+	text-align:right;
+	border: 1px solid #595959;
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	height:13px;
+}
+
+.sb_emptd{
+	text-align:right;
+	border: 1px solid #595959;
+	vertical-align:middle;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	height:13px;
+}
+
+.lables_td{
+	vertical-align:bottom;
+}
+

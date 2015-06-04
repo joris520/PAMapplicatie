@@ -1,0 +1,116 @@
+/* CSS Document */
+
+.ehp_window1 {
+	 
+}        
+
+.ehp_window1 {
+	width:100%;
+}     
+
+.ehp_window1 td{
+	font-size:11px;
+	padding: 2px;
+	margin:1px;
+}          
+
+.ehp_window2 {
+	margin: 2px;
+	padding: 5px;
+}  
+
+.divwindow2{
+}
+
+.ehp_table{
+	width:100%;
+	padding:0;
+	margin:0px;
+}    
+
+.ehp_table tr{
+	width:100%;
+	padding:0;
+}    
+
+.ehp_tdbg{
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	font-weight:bold;
+	background-color:#EFEFEF;
+}    
+
+.ehp_window3 {
+	margin: 0px;
+	padding: 0px;
+	float:left;
+	width:100%;
+}
+
+.ehp_bottom_line {
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+#mod_hist_title p { font-size: 12px; font-weight: bold; }
+
+
+/* CSS Document */
+
+.ehp_window1 {
+	 
+}        
+
+.ehp_window1 {
+	width:100%;
+}     
+
+.ehp_window1 td{
+	font-size:11px;
+	padding: 2px;
+	margin:1px;
+}          
+
+.ehp_window2 {
+	margin: 2px;
+	padding: 5px;
+}  
+
+.divwindow2{
+}
+
+.ehp_table{
+	width:100%;
+	padding:0;
+	margin:0px;
+}    
+
+.ehp_table tr{
+	width:100%;
+	padding:0;
+}    
+
+.ehp_tdbg{
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	font-weight:bold;
+	background-color:#EFEFEF;
+}    
+
+.ehp_window3 {
+	margin: 0px;
+	padding: 0px;
+	float:left;
+	width:100%;
+}
+
+.ehp_bottom_line {
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+#mod_hist_title p { font-size: 12px; font-weight: bold; }
+
+

@@ -1,0 +1,118 @@
+/* CSS Document */
+
+.pdptodolist_window1 {
+	
+}
+.pdptodolist_window1 p { margin:0px; padding:0px; font-weight: bold; font-size:14px; }
+.pdp_todolist_sub1 {
+	margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.pdp_todolist_sub2 {
+	margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.pdp_todolist_sub3 {
+	margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}   
+
+.pdptodo_tdbg{
+	border-top: 1px solid #ddd;
+	font-weight:bold;
+	background-color:#EFEFEF;
+}
+
+.pdptodo_bottom_line {
+	border-bottom: 1px solid #ddd;
+}
+
+.pdptodolist_print {
+}
+
+
+.pdptodolist_printOptions{
+	margin: 2px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	width: 240px;
+}
+
+.pdptodolist_selUsers{
+	border: 1px solid #ccc;
+}   
+
+.pdptodolist_selTaskOwners{
+	border: 1px solid #ccc;
+}   
+
+.pdptodolist_selEmployees{
+	border: 1px solid #ccc;
+}   
+
+
+
+/* CSS Document */
+
+.pdptodolist_window1 {
+	
+}
+.pdptodolist_window1 p { margin:0px; padding:0px; font-weight: bold; font-size:14px; }
+.pdp_todolist_sub1 {
+	margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.pdp_todolist_sub2 {
+	margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.pdp_todolist_sub3 {
+	margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}   
+
+.pdptodo_tdbg{
+	border-top: 1px solid #ddd;
+	font-weight:bold;
+	background-color:#EFEFEF;
+}
+
+.pdptodo_bottom_line {
+	border-bottom: 1px solid #ddd;
+}
+
+.pdptodolist_print {
+}
+
+
+.pdptodolist_printOptions{
+	margin: 2px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	width: 240px;
+}
+
+.pdptodolist_selUsers{
+	border: 1px solid #ccc;
+}   
+
+.pdptodolist_selTaskOwners{
+	border: 1px solid #ccc;
+}   
+
+.pdptodolist_selEmployees{
+	border: 1px solid #ccc;
+}   
+
+
+

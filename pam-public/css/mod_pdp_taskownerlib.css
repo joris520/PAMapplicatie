@@ -1,0 +1,69 @@
+#mode_pdp_taskownerlib {
+	width: 100%;
+	/* border: 1px solid #ccc; */
+}
+#mode_pdp_taskownerlib p {
+	padding:0px; margin: 0px 0px 5px 0px;
+	font-size: 14px;
+}
+
+#mod_pdp_taskownerlib_left {
+	width: 50%;
+	margin: 0px 2px 0px 0px;
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+	float: left;
+
+}
+
+#mod_pdp_taskownerlib_right{
+	margin: 0px 0px 0px 2px;
+	float:left;
+	width: 50%;
+}
+#mod_pdp_taskownerlib_left p { font-size: 14px; font-weight: bold; padding:0px; margin: 0px 0px 5px 0px; }
+#mod_pdp_taskownerlib_left a { color:#333333; text-decoration: underline; }
+#mod_pdp_taskownerlib_left a:hover { color:#666666; text-decoration: underline; }
+.mod_pdp_taskownerlib_cat_left { border-bottom: 1px solid #cdcdcd; }
+.mod_pdp_taskownerlib_cat_right { }
+#mod_pdp_taskownerlib_right p { font-size: 14px; font-weight: bold; padding:0px; margin: 0px 0px 5px 0px; }
+#mod_pdp_taskownerlib_right a { color:#333333; text-decoration: underline; }
+#mod_pdp_taskownerlib_right a:hover { color:#666666; text-decoration: underline; }
+.mod_pdp_taskownerlib_right_holder { width: 100%; float: left; }
+.mod_pdp_taskownerlib_comp { width: 50%; float:left; display: block; }
+.mod_pdp_taskownerlib_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_pdp_taskownerlib_actions { width: 30%; float:left; display: block; text-align:right; }#mode_pdp_taskownerlib {
+	width: 100%;
+	/* border: 1px solid #ccc; */
+}
+#mode_pdp_taskownerlib p {
+	padding:0px; margin: 0px 0px 5px 0px;
+	font-size: 14px;
+}
+
+#mod_pdp_taskownerlib_left {
+	width: 50%;
+	margin: 0px 2px 0px 0px;
+	border: 1px solid #CCCCCC;
+	padding: 5px;
+	float: left;
+
+}
+
+#mod_pdp_taskownerlib_right{
+	margin: 0px 0px 0px 2px;
+	float:left;
+	width: 50%;
+}
+#mod_pdp_taskownerlib_left p { font-size: 14px; font-weight: bold; padding:0px; margin: 0px 0px 5px 0px; }
+#mod_pdp_taskownerlib_left a { color:#333333; text-decoration: underline; }
+#mod_pdp_taskownerlib_left a:hover { color:#666666; text-decoration: underline; }
+.mod_pdp_taskownerlib_cat_left { border-bottom: 1px solid #cdcdcd; }
+.mod_pdp_taskownerlib_cat_right { }
+#mod_pdp_taskownerlib_right p { font-size: 14px; font-weight: bold; padding:0px; margin: 0px 0px 5px 0px; }
+#mod_pdp_taskownerlib_right a { color:#333333; text-decoration: underline; }
+#mod_pdp_taskownerlib_right a:hover { color:#666666; text-decoration: underline; }
+.mod_pdp_taskownerlib_right_holder { width: 100%; float: left; }
+.mod_pdp_taskownerlib_comp { width: 50%; float:left; display: block; }
+.mod_pdp_taskownerlib_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_pdp_taskownerlib_actions { width: 30%; float:left; display: block; text-align:right; }

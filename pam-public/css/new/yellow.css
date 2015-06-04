@@ -1,0 +1,213 @@
+/*
+    alle kleuren die bij de afmetingen in layout.css horen
+*/
+
+body,
+html {
+	background: #ffffff;
+	color: #8c6e00;
+}
+
+a {
+    color: #c68d00;
+}
+
+a:hover {
+    color: #ff9900;
+}
+
+#header_right {
+	color: #c68d00;
+}
+
+#header_right a {
+    color: #c68d00;
+}
+
+#header_right a:hover {
+    color: #ff9900;
+}
+
+div.common-footer {
+    border-top-color: #e1c017;
+}
+
+#theme_selection {
+	border-color: #cccccc;
+}
+
+#Menu {
+	background: #dedede;
+}
+
+#Content {
+	background: #ffffff;
+}
+
+#login a {
+    color: #ff9900;
+}
+
+#login a:hover {
+    color: #990000;
+}
+
+#body {
+	/* height:auto !important;  real browsers
+	height:100%; IE6: treaded as min-height
+	min-height:100%; real browsers */
+}
+
+.top_border1px {
+    border-top-color: #e1c017;
+}
+
+.bottom_border1px {
+    border-bottom-color: #e1c017;
+}
+
+.bottom_border2px {
+    border-bottom-color: #e1c017;
+}
+
+/* TOP MALUPIT NA TAB */
+.nav_aborder {
+	border-top-color: white;
+    border-bottom-color: #e1c017;
+	background: url(images/yellow/a_bg.gif) repeat-x #faf7ba;
+    color: #666666;
+}
+
+.nav_aborder a {
+    color: #333;
+}
+
+.nav_aborder a:hover {
+    color: #666;
+}
+
+.nav_hborder {
+    border-top-color: white;
+	background:url(images/yellow/h_bg.gif) repeat-x #ffffff;
+    color: #ff9900;
+}
+
+.nav_hborder a {
+    color: #ff9900;
+}
+
+.nav_hborder a:hover {
+    color: #ff9900;
+}
+
+/* ------ */
+/* EMPLOYEE MALUPIT NA TAB */
+.nav_aEmp {
+	border-top-color: white;
+    border-bottom-color: #e1c017;
+	background:url(images/yellow/a_ebg.gif) repeat-x #ffffff;
+    color: #666666;
+}
+
+.nav_aEmp a {
+    color: #333;
+}
+
+.nav_aEmp a:hover {
+    color: #666;
+}
+
+.nav_hEmp {
+    border-top-color: white;
+	background:url(images/yellow/h_ebg.gif) repeat-x #ffffff;
+    color: #ff9900;
+}
+.nav_hEmp a {
+    color: #ff9900;
+}
+
+.nav_hEmp a:hover {
+    color: #ff9900;
+}
+/* ------ */
+
+.btn {
+	border-color: #f4d363;
+	color: #000000;
+	background: url(images/yellow/btn_bg.gif) repeat-x left top;
+}
+
+.indicator {
+    color: #ff9900;
+}
+
+.activated {
+    color: #ff9900;
+}
+
+.dashed_line {
+    border-bottom-color: #fae123;
+}
+
+.bottom_line {
+    border-bottom-color: #ecfaa0;
+}
+
+.border1px {
+    border-color: #ecfaa0;
+}
+
+.shaded_title {
+    background: #faf7ba;
+}
+
+/* Module User Styles */
+.left_panel {
+    background: #faf7ba;
+    border-right-color: #e1c017;
+    color: #c68d00;
+}
+
+.left_panel2 {
+    border-top-color: #e1c017;
+}
+
+.divLeftWbg {
+    background: #ffffff;
+}
+
+.divLeftWbg a {
+    color: #ff9900;
+}
+
+.divLeftWbg a:hover {
+    color: #c68d00;
+}
+
+.divLeftRow a {
+    color: #c68d00;
+}
+
+.divLeftRow a:hover {
+    color: #ff9900;
+}
+
+.right_panel2 {
+    border-top-color: #e1c017;
+}
+
+.border_bottom {
+    border-bottom-color: #e1c017;
+}
+
+
+.history-diff,
+.score-diff {
+    border-color:  #fae123;
+    background-color: #ecfaa0;
+}
+
+#simplemodal-container {
+    background-color: white;
+    border-color: #fae123;
+}

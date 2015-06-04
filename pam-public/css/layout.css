@@ -1,0 +1,381 @@
+/*
+    Document   : layout
+    Created on : 28-mrt-2012, 14:56:27
+    Author     : ben.dokter
+    Description:
+        alle layouts uit blue.css, orange.css etc hierin
+*/
+
+body,
+html{
+	margin: 0px;
+	padding: 0px;
+	height:100%;
+	width: 100%;
+	font-family : "Trebuchet MS", Tahoma;
+	font-size:12px;
+}
+
+td {
+    vertical-align: top;
+    font-size: 12px;
+}
+
+th {
+    text-align: left;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+input,
+select,
+textarea {
+    font-size: 11px;
+}
+
+form {
+    padding:0px;
+    margin:0px;
+}
+
+#mainframe {
+	position: relative;
+	width: 100%;
+	margin: 0px auto;
+}
+
+#header {
+	height: 95px;
+	width: 30%;
+	float:left;
+}
+
+#footer {
+	clear: left;
+	height: 70px;
+	border-top-width: 1px;
+    border-top-style: solid;
+	text-align: center;
+	padding: 5px 0;
+}
+
+div.common-footer {
+    clear: both;
+    padding-top: 10px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    padding: 5px 0;
+    font-size:11px;
+	text-align: center;
+}
+
+#header_left {
+	height: 95px;
+	width: 30%;
+	float:left;
+}
+
+#header_right {
+	height: 82px;
+	margin-top: 3px;
+	width: 65%;
+	float: right;
+	text-align: right;
+	font-weight: bold;
+}
+
+#gino {
+    width: 100%;
+}
+
+#gino_right {
+    margin-top: 5px;
+    margin-right: 10px;
+    float:right;
+}
+
+#gino_right table {
+    text-align: right;
+}
+
+#header_right a:hover {
+    text-decoration: none;
+}
+
+#application_menu_panel {
+	float: right;
+	padding-top: 4px;
+}
+
+#theme_selection {
+	border-width: 1px;
+    border-style: solid;
+	padding: 3px;
+	float:right;
+	margin: 0px 3px 0px 5px;
+}
+
+.nav {
+	clear: left;
+	text-align:center;
+	/*background:url(../images/blue/nav_bg.gif) repeat-x; */
+	/*border-bottom: 1px solid #4c95c6;*/
+}
+
+#Menu {
+	width: 17%;
+	padding: 5px;
+	float: left;
+	margin: auto;
+}
+
+#Content {
+	width: 100%;
+	margin: auto;
+	float:left;
+}
+
+
+#login {
+    width: 100%;
+    margin:auto;
+}
+
+#login a:hover {
+    text-decoration: none;
+}
+
+#holder{
+    width:350px;
+    margin:10px auto;
+    text-align: left;
+}
+#holder .left {
+    width: 100px;
+    height: 20px;
+}
+
+#holder .right {
+    width:180px;
+    height: 20px;
+}
+
+#body {
+	/* height:auto !important;  real browsers
+	height:100%; IE6: treaded as min-height
+	min-height:100%; real browsers */
+}
+
+.top_border1px {
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.bottom_border1px {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.bottom_border2px {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+/* TOP MALUPIT NA TAB */
+.nav_aborder {
+	border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding: 7px 15px;
+    font-weight: bold;
+}
+
+.nav_aborder a {
+    font-size: 13px;
+}
+
+.nav_aborder a:hover {
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.nav_hborder {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 0px;
+    padding: 7px 15px;
+    font-weight: bold;
+}
+
+.nav_hborder a {
+    font-size: 13px;
+}
+
+.nav_hborder a:hover {
+    font-size: 13px;
+    text-decoration: none;
+}
+
+/* ------ */
+/* EMPLOYEE MALUPIT NA TAB */
+.nav_aEmp {
+	border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding: 2px 13px;
+    font-weight: bold;
+}
+
+.nav_aEmp a {
+    font-size: 12px;
+}
+
+.nav_aEmp a:hover {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.nav_hEmp {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 0px;
+    padding: 2px 13px;
+    font-weight: bold;
+}
+
+.nav_hEmp a {
+    font-size: 12px;
+}
+
+.nav_hEmp a:hover {
+    font-size: 12px;
+    text-decoration: none;
+}
+/* ------ */
+
+.nav_top {
+    padding: 0px 10px;
+}
+
+.TB_padding5 {
+    padding: 5px 0;
+}
+
+.btn {
+	cursor: pointer;
+    border-width: 1px;
+	border-style: ridge;
+	margin: 5px 0px;
+	padding: 2px 8px;
+	font-size: 11px;
+	overflow: visible;
+}
+
+.btn_width_auto {
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+    border: 0px;
+    cursor: pointer;
+}
+
+.font_s18 {
+    font-size: 18px;
+}
+
+
+.dashed_line {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.bottom_line {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.border1px {
+    border-width: 1px;
+    border-style: solid;
+}
+
+/* Module User Styles */
+.left_panel {
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+.left_panel2 {
+    border-top-width: 1px;
+    border-top-style: solid;
+    text-align: center;
+}
+
+.divLeftRow {
+    font-weight: bold;
+    padding:2px 0px;
+    vertical-align: middle;
+}
+
+.divLeftWbg {
+    font-weight: bold;
+    padding:2px 0px;
+    vertical-align: middle;
+}
+
+.divLeftWbg a:hover {
+    text-decoration: none;
+}
+
+.divLeftRow a:hover {
+    text-decoration: none;
+}
+
+.right_panel {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.right_panel2 {
+    text-align:center;
+    border-top-width: 1px;
+    border-top-style: solid;
+    padding-top: 10px;
+    font-size: 11px;
+}
+
+.right_panel p,
+.left_panel p {
+    /*font-weight: bold;*/
+    font-size: 12px;
+}
+
+.border_bottom {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.top_nav {
+    padding: 0px 0px 5px 0px;
+    text-align: right;
+    width: 100%;
+}
+
+#tabNav {
+    width: 100%;
+    clear: left;
+}
+
+#empPrint {
+    padding-bottom: 40px;
+}
+
+#logs,
+#logs2 {
+    margin-top: 7px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,79 @@
+/* Module Competence Styles */
+#mode_competence {
+	width: 100%;
+	/* margin: 5px; */
+	/* border: 1px solid #ccc; */
+	/* padding: 5px; */
+}
+#mode_competence p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#mod_competence_left {
+	margin: 0px;
+}
+#mod_competence_left p { font-size: 14px; font-weight: bold; }
+.mod_competence_cat_left { width: 60%; float:left; display: block; }
+.mod_competence_cat_right { width: 40%; float:left; text-align:right; }
+#mod_competence_right {
+	margin: 0px;
+	overflow: auto;
+}
+#mod_competence_right p { font-size: 14px; font-weight: bold; }
+.mod_competence_right_holder { width: 100%; float: left; }
+.mod_competence_comp { width: 60%; float:left; display: block; padding: 2px 0px; }
+.mod_competence_scale { width: 20%; float:left; display: block; text-align:center; padding: 2px 0px; }
+.mod_competence_actions { width: 20%; float:left; display: block; text-align:right; padding: 2px 0px; }
+
+.mod_competence_dict {
+	margin: 0px 0px 0px 2px;
+	padding: 5px;
+	float:left;
+	text-align:left;
+	border: 1px solid #CCCCCC;
+	overflow: auto;
+}
+#mod_competence_dict p { font-size: 14px; font-weight: bold; padding:0px; margin:0px; }
+.mod_competence_dict_title { font-size: 14px; font-weight: bold; }
+#mod_competence_dict2 { float: left; padding-left: 20px; }/* Module Competence Styles */
+#mode_competence {
+	width: 100%;
+	/* margin: 5px; */
+	/* border: 1px solid #ccc; */
+	/* padding: 5px; */
+}
+#mode_competence p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#mod_competence_left {
+	margin: 0px;
+}
+#mod_competence_left p { font-size: 14px; font-weight: bold; }
+.mod_competence_cat_left { width: 60%; float:left; display: block; }
+.mod_competence_cat_right { width: 40%; float:left; text-align:right; }
+#mod_competence_right {
+	margin: 0px;
+	overflow: auto;
+}
+#mod_competence_right p { font-size: 14px; font-weight: bold; }
+.mod_competence_right_holder { width: 100%; float: left; }
+.mod_competence_comp { width: 60%; float:left; display: block; padding: 2px 0px; }
+.mod_competence_scale { width: 20%; float:left; display: block; text-align:center; padding: 2px 0px; }
+.mod_competence_actions { width: 20%; float:left; display: block; text-align:right; padding: 2px 0px; }
+
+.mod_competence_dict {
+	margin: 0px 0px 0px 2px;
+	padding: 5px;
+	float:left;
+	text-align:left;
+	border: 1px solid #CCCCCC;
+	overflow: auto;
+}
+#mod_competence_dict p { font-size: 14px; font-weight: bold; padding:0px; margin:0px; }
+.mod_competence_dict_title { font-size: 14px; font-weight: bold; }
+#mod_competence_dict2 { float: left; padding-left: 20px; }

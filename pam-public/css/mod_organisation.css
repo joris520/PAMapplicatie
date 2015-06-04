@@ -1,0 +1,33 @@
+
+.mod_organisation_cat_left { width: 100%; float:left; display: block; }
+
+
+#SBdepartment,
+#SBfunction
+{
+    width:  200px;
+    color:  #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #808080;
+    margin: 1px;
+}
+
+#SBcross,
+#SBbosses
+{
+    width: 300px;
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #808080;
+    margin: 1px;
+}
+
+#SBdepartment.disabled,
+#SBfunction.disabled,
+#SBcross.disabled,
+#SBbosses.disabled
+{
+    color:                  #808080;
+    background-color:       #E0E0E0;
+    border:            1px solid #A0A0A0;
+}

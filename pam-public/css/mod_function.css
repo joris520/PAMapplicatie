@@ -1,0 +1,59 @@
+#mode_function {
+	width: 100%;
+	/*margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	height: 585px; */
+}
+#mode_function p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#mod_function_left {
+	margin: 0px;
+}
+#mod_function_left p { font-size: 14px; font-weight: bold; }
+.mod_function_cat_left { width: 60%; float:left; display: block; }
+.mod_function_cat_right { width: 35%; float:left; text-align:right;  }
+#mod_function_right {
+	margin: 0px;
+	float:left;
+	width:100%;
+}
+#mod_function_right p { font-size: 14px; font-weight: bold; }
+.mod_function_right_holder { width: 100%; float: left; }
+.mod_function_comp { width: 50%; float:left; display: block; }
+.mod_function_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_function_actions { width: 20%; float:left; display: block; text-align:right; }
+.benchmark_box2 { width:25px; border:0px;}#mode_function {
+	width: 100%;
+	/*margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	height: 585px; */
+}
+#mode_function p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#mod_function_left {
+	margin: 0px;
+}
+#mod_function_left p { font-size: 14px; font-weight: bold; }
+.mod_function_cat_left { width: 60%; float:left; display: block; }
+.mod_function_cat_right { width: 35%; float:left; text-align:right;  }
+#mod_function_right {
+	margin: 0px;
+	float:left;
+	width:100%;
+}
+#mod_function_right p { font-size: 14px; font-weight: bold; }
+.mod_function_right_holder { width: 100%; float: left; }
+.mod_function_comp { width: 50%; float:left; display: block; }
+.mod_function_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_function_actions { width: 20%; float:left; display: block; text-align:right; }
+.benchmark_box2 { width:25px; border:0px;}

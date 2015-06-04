@@ -1,0 +1,51 @@
+#mode_pdp_actionlib {
+	width: 100%;
+}
+#mode_pdp_actionlib p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#mod_pdp_actionlib_left {
+	
+
+}
+
+#mod_pdp_actionlib_right{
+	
+}
+#mod_pdp_actionlib_left p { font-size: 14px; font-weight: bold; }
+.mod_pdp_actionlib_cat_left {  border-bottom: 1px solid #cdcdcd; }
+.mod_pdp_actionlib_cat_right {  text-align:right; border-bottom: 1px solid #cdcdcd; }
+#mod_pdp_actionlib_right p { font-size: 14px; font-weight: bold; }
+.mod_pdp_actionlib_right_holder { width: 100%;  }
+.mod_pdp_actionlib_comp {  }
+.mod_pdp_actionlib_scale { text-align:center; }
+.mod_pdp_actionlib_actions {  text-align:right; }#mode_pdp_actionlib {
+	width: 100%;
+}
+#mode_pdp_actionlib p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#mod_pdp_actionlib_left {
+	
+
+}
+
+#mod_pdp_actionlib_right{
+    float:left;
+}
+#mod_pdp_actionlib_left p { font-size: 14px; font-weight: bold; }
+.mod_pdp_actionlib_cat_left {  border-bottom: 1px solid #cdcdcd; }
+.mod_pdp_actionlib_cat_right {  text-align:right; border-bottom: 1px solid #cdcdcd; }
+#mod_pdp_actionlib_right p { font-size: 14px; font-weight: bold; }
+.mod_pdp_actionlib_right_holder { width: 100%;  }
+.mod_pdp_actionlib_comp {  }
+.mod_pdp_actionlib_scale { text-align:center; }
+.mod_pdp_actionlib_actions {  text-align:right; }

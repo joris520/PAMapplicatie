@@ -1,0 +1,214 @@
+/*
+    alle kleuren die bij de afmetingen in layout.css horen
+*/
+
+body,
+html{
+    background: #ffffff;
+    color: #255400;
+}
+
+a {
+    color: #3f9900;
+}
+
+a:hover {
+    color: #81af03;
+}
+
+#header_right {
+    color: #3f9900;
+}
+
+#header_right a {
+    color: #3f9900;
+}
+
+#header_right a:hover {
+    color: #81af03;
+}
+
+div.common-footer {
+    border-top-color: #99cc33;
+}
+
+
+#theme_selection {
+    border-color: #cccccc;
+}
+
+#Menu {
+    background: #dedede;
+}
+
+#Content {
+    background: #ffffff;
+}
+
+#login a {
+    color: #81af03;
+}
+#login a:hover {
+    color: #990000;
+}
+
+#body {
+    /* height:auto !important;  real browsers
+	height:100%; IE6: treaded as min-height
+	min-height:100%; real browsers */
+}
+
+.top_border1px {
+    border-top-color: #99cc33;
+}
+
+.bottom_border1px {
+    border-bottom-color: #99cc33;
+}
+
+.bottom_border2px {
+    border-bottom: #99cc33;
+}
+
+/* TOP MALUPIT NA TAB */
+.nav_aborder {
+    border-top-color: white;
+    border-bottom-color: #99cc33;
+    background: url(images/green/a_bg.gif) repeat-x #e9f6da;
+    color: #666666;
+}
+
+.nav_aborder a {
+    color: white;
+}
+
+.nav_aborder a:hover {
+    color: #eee;
+}
+
+.nav_hborder {
+    border-top-color: white;
+    background: url(images/green/h_bg.gif) repeat-x #ffffff;
+    color: #81af03;
+}
+
+.nav_hborder a {
+    color: #81af03;
+}
+
+.nav_hborder a:hover {
+    color: #81af03;
+}
+
+/* ------ */
+/* EMPLOYEE MALUPIT NA TAB */
+.nav_aEmp {
+    border-top-color: white;
+    border-bottom-color: #99cc33;
+    background: url(images/green/a_ebg.gif) repeat-x #ffffff;
+    color: #666666;
+}
+
+.nav_aEmp a {
+    color: white;
+}
+
+.nav_aEmp a:hover {
+    color: #eee;
+}
+
+.nav_hEmp {
+    border-top-color: white;
+    background: url(images/green/h_ebg.gif) repeat-x #ffffff;
+    color: #81af03;
+}
+
+.nav_hEmp a {
+    color: #81af03;
+}
+
+.nav_hEmp a:hover {
+    color: #81af03;
+}
+/* ------ */
+
+.btn {
+    border-color: #bac85b;
+    color: #000000;
+    background: url(images/green/btn_bg.gif) repeat-x left top;
+}
+
+.indicator {
+    color: #81af03;
+}
+
+.activated {
+    color: #81af03;
+}
+
+
+.dashed_line {
+    border-bottom-color: #ffd866;
+}
+
+.bottom_line {
+    border-bottom-color: #ccff33;
+}
+
+.border1px {
+    border-color: #ccff33;
+}
+
+.shaded_title {
+    background: #e9f6da;
+}
+
+/* Module User Styles */
+.left_panel {
+    background: #e9f6da;
+    border-right-color: #99cc33;
+    color: #3f9900;
+}
+
+.left_panel2 {
+    border-top-color: #99cc33;
+ }
+
+.divLeftWbg {
+    background: #ffffff;
+}
+
+.divLeftWbg a {
+    color: #81af03;
+}
+
+.divLeftWbg a:hover {
+    color: #3f9900;
+}
+
+.divLeftRow a {
+    color: #3f9900;
+}
+
+.divLeftRow a:hover {
+    color: #81af03;
+}
+
+.right_panel2 {
+    border-top-color: #99cc33;
+}
+
+.border_bottom {
+    border-bottom-color: #99cc33;
+}
+
+.history-diff,
+.score-diff {
+    border-color:  #ffd866;
+    background-color: #e9f6da;
+}
+
+#simplemodal-container {
+    background-color: white;
+    border-color: #ffd866;
+}

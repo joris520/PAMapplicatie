@@ -1,0 +1,51 @@
+#mode_pdp_tasklib {
+	width: 100%;
+}
+#mode_pdp_tasklib p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#mod_pdp_tasklib_left {
+	
+
+}
+
+#mod_pdp_tasklib_right{
+	
+}
+#mod_pdp_tasklib_left p { font-size: 14px; font-weight: bold; }
+.mod_pdp_tasklib_cat_left { border-bottom: 1px solid #cdcdcd; }
+.mod_pdp_tasklib_cat_right { text-align:right; border-bottom: 1px solid #cdcdcd; }
+#mod_pdp_tasklib_right p { font-size: 14px; font-weight: bold; }
+.mod_pdp_tasklib_right_holder { width: 100%; float: left; }
+.mod_pdp_tasklib_comp { width: 50%; float:left; display: block; }
+.mod_pdp_tasklib_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_pdp_tasklib_actions { width: 30%; float:left; display: block; text-align:right; }#mode_pdp_tasklib {
+	width: 100%;
+}
+#mode_pdp_tasklib p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#mod_pdp_tasklib_left {
+	
+
+}
+
+#mod_pdp_tasklib_right{
+	
+}
+#mod_pdp_tasklib_left p { font-size: 14px; font-weight: bold; }
+.mod_pdp_tasklib_cat_left { border-bottom: 1px solid #cdcdcd; }
+.mod_pdp_tasklib_cat_right { text-align:right; border-bottom: 1px solid #cdcdcd; }
+#mod_pdp_tasklib_right p { font-size: 14px; font-weight: bold; }
+.mod_pdp_tasklib_right_holder { width: 100%; float: left; }
+.mod_pdp_tasklib_comp { width: 50%; float:left; display: block; }
+.mod_pdp_tasklib_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_pdp_tasklib_actions { width: 30%; float:left; display: block; text-align:right; }
