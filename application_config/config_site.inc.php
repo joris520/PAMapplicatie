@@ -8,5 +8,5 @@
     //define('SITE_AJAX_DEBUG', true);
 
     // site params
-    define('SITE_URL', 'http://joris454.ddns.net/gino-pam/pam-public/');
+    define('SITE_URL', 'http://joris454.ddns.net/broodjesalami/pam-public/');
 ?>
