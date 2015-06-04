@@ -1,0 +1,9 @@
+table.master-detail-layout-helper td.layout-master-panel {
+    background: #eeeeee;
+    border-right-color: #999999;
+    color: #656565;
+}
+
+.hoveredRow {
+    background-color: #eeeeee;
+}

@@ -1,0 +1,139 @@
+.title {
+    margin: 0;
+    padding: 0;
+}
+
+.title h3 {
+    margin: 0;
+    padding: 0;
+}
+
+
+.text-centered {
+    text-align: center;
+}
+
+
+.application-content {
+/*     height: 200px; */
+    padding: 15px 10px;
+    border: 1px solid #aaa;
+    border-radius: 5px 5px;
+    border-top-width: 0px;
+}
+
+.application-content p {
+    font-size: 12px;
+}
+
+.block-title,
+.block-header {
+   padding: 10px 10px 10px 10px;
+}
+
+.block-title,
+.block-header {
+   background-color: #E8E8E8;
+   background: -moz-linear-gradient(center top , #F2F6F7 0%, #E8E8E8 100%) repeat scroll 0 0 transparent;
+}
+
+.shaded_title-new {
+    background-color: #E8E8E8;
+}
+
+.block-title {
+    border-radius: 5px 5px 5px 5px;
+    border-width: 1px 1px 1px 1px;
+}
+
+.block-title.subheader {
+    margin-top: 20px;
+}
+
+.block-title.has-footer-block {
+    margin-top: 0px;
+    border-radius: 5px 5px 0px 0px;
+    border-width: 1px 1px 0px 1px;
+    margin-top: -1px;
+}
+
+.block-header {
+    margin-top: 20px;
+    border-radius: 5px 5px 0px 0px;
+    border-width: 1px 1px 0px 1px;
+    min-height: 20px;
+}
+
+.block-header.has-header-block {
+    margin-top: -1px;
+    border-radius: 0px 0px 5px 5px;
+    border-width: 0px 1px 1px 1px;
+    min-height: 20px;
+}
+
+.block-header.no-header-block {
+    margin-top: 0px;
+    border-radius: 0px 0px 0px 0px;
+    margin-top: -1px;
+}
+
+.block-title h1,
+.block-title h2,
+.block-title h3 {
+    margin: 0px 0px 0px 0px;
+}
+
+.block-header h1,
+.block-header h2,
+.block-header h3 {
+    margin: 0px 0px 0px 0px;
+}
+
+.block-data {
+    border-top: 1px solid #aaa;
+    border-bottom-width: 0px;
+    border-radius: 0px;
+    margin-top: -1px;
+}
+
+.block-data.no-header-block {
+    border-radius: 5px 5px 0px 0px;
+    border-width: 1px 1px 0px 1px;
+}
+
+.block-header.no-footer-block,
+.block-data.no-footer-block {
+    border-radius: 0px 0px 5px 5px;
+    border-width: 1px 1px 1px 1px;
+}
+
+.block-data.no-header-no-footer-block {
+    border-radius: 5px 5px 5px 5px;
+    border-width: 1px 1px 1px 1px;
+}
+
+.content-table {
+}
+
+.content-table th {
+    padding: 3px 5px;
+}
+
+.content-table td {
+    padding: 6px 5px;
+}
+
+.content-table.employee th,
+.content-table.employee td {
+    padding: 3px 5px;
+}
+
+.content-table th.sub-header,
+.content-table td.sub-header {
+    padding: 3px 5px;
+}
+
+.content-table th.shaded_title.sub-header {
+    background-color: #eee;
+}
+

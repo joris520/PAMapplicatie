@@ -1,0 +1,76 @@
+/* Module Employees Styles */
+#mode_employees {
+	width: 100%;
+	/*margin: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	height: 585px; */
+}
+#mode_employees p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 12px;
+}
+#mod_employees_left {
+	margin: 0px;
+	overflow: auto
+}
+#mod_employees_left p { font-size: 14px; font-weight: bold; }
+.mod_employees_cat_left { width: 80%; }
+.mod_employees_cat_right { width: 20%; }
+#mod_employees_right {
+	margin: 0px;
+	overflow: auto
+}
+#mod_employees_right p { font-size: 14px; font-weight: bold; }
+.mod_employees_right_holder { width: 100%; float: left; }
+.mod_employees_comp { width: 50%; float:left; display: block; }
+.mod_employees_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_employees_actions { width: 30%; float:left; display: block; text-align:right; }
+.mod_employees_tasks_heading { font-weight: bold; }
+
+.mod_employees_Profile {
+    text-align: left;
+}
+.mod_employees_Attachments {  }
+.mod_employees_Score { }
+.mod_employees_PDPAction {  }
+.mod_employees_Tasks {  }
+.mod_employees_Targets { }
+#mod_employees_targetPeriod {  }
+.mod_employees_empPrint {  }
+
+
+#sourceSelect
+{
+	width:			190px;
+	border:			1px solid #DDDDDD;
+	margin:			1px;
+}
+
+#destinationSelect
+{
+	width:			190px;
+	border:			1px solid #DDDDDD;
+	margin:			1px;
+}
+
+/* hbd: verschil score */
+.history-diff,
+.score-diff {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* hbd: todo style specifiek */
+.employee_conversation_unchecked {
+    background-color: #bbb;
+}
+
+.employee_conversation_checked {
+    background-color: #dd0000 ! important;
+}
+
+.employee_conversation_manager_checked {
+    background-color: #003ae6  ! important;
+}

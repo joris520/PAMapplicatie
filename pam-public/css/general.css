@@ -1,0 +1,293 @@
+/* sdj: sommige waarden staan nog uitgecommentarieerd, omdat deze minimale waarden niet altijd juist zijn gekozen in de applicatie */
+
+.noscript_container {
+    background-color: #eee;
+    border-top: solid 1px #999;
+    border-bottom: solid 1px #999;
+    margin: 20px 0 20px 0;
+    padding: 15px 15px 15px 15px;
+}
+
+.noscript_content {
+    background: url(images/icons/negative_48.png) no-repeat;
+    color: red;
+    font-weight: bold;
+    min-height: 42px;
+    padding: 5px 0 0 63px;
+}
+
+.btn_width_80 {
+    /*min-width: 80px;*/
+}
+
+.btn_width_100 {
+    min-width: 100px;
+}
+
+.btn_width_110 {
+    min-width: 110px;
+}
+
+.btn_width_150 {
+    /*min-width: 150px;*/
+}
+
+.select_width_150 {
+    min-width: 150px;
+}
+
+.text_width_100 {
+    min-width: 100px;
+}
+
+.text_width_150 {
+    min-width: 150px;
+}
+
+#global_loading {
+	position:absolute;
+	display: none;
+	top: 60px;
+	right: 8px;
+}
+
+input[disabled] {
+    color: #777;
+    border-color: #aaa;
+    cursor: default;
+}
+
+.text_disabled {
+    color: #777;
+}
+
+div.comp_select_emails div {
+    float:      left;
+    padding:    5px;
+}
+
+div.comp_select_emails div div {
+    padding:    0px;
+}
+
+td.inspring {
+    padding-left: 10px;
+}
+
+
+/* algemene styles */
+h1 {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 13px;
+}
+
+h3 {
+    font-size: 12px;
+}
+
+h1.in-cell,
+h2.in-cell,
+h3.in-cell {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+a img {
+    text-decoration: none;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.row_target_evaluation {
+    background-color: #eee;
+}
+
+.main_competence {
+    font-weight: bold;
+}
+
+.cluster-header {
+    padding: 5px 0px;
+    margin-top: 20px;
+}
+
+.header-title {
+    padding: 0;
+    margin: 0;
+}
+
+tr.main_competence,
+td.main_competence {
+    background-color: #eee;
+}
+
+td.sub_competence {
+    padding-left: 20px;
+}
+
+td.bottom_align {
+    vertical-align: bottom;
+}
+
+td.center_align {
+    vertical-align: middle;
+}
+
+.icon-style {
+    padding-top: 2px;
+    border: 0;
+}
+
+.icon-style-small {
+    padding-top: 4px;
+}
+
+p.info-text {
+    font-weight: normal !important;
+    font-size: 12px !important;
+    padding-left: 5px !important;
+}
+
+.search {
+    margin-bottom: 10px;
+}
+
+#scrollDiv {
+    margin-top: 15px;
+	display:block;
+	height: 500px;
+	overflow:auto
+}
+
+.centered {
+    text-align: center !important;
+}
+
+.actions,
+.right {
+    text-align: right !important;
+}
+
+div.actions,
+th.actions,
+td.actions {
+    padding-right: 5px;
+}
+
+.error {
+    color: #ff0000;
+}
+
+/* dashboard styling */
+table.dashboard  {
+    border: 1px solid #666;
+}
+
+table.dashboard tr th {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table.dashboard tr td  {
+    text-align: center;
+    padding: 4px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+table.dashboard tr th.alternate,
+table.dashboard tr td.alternate {
+    background-color: #ddd;
+}
+table.dashboard tr td.alternate {
+    border-bottom: 1px solid white;
+}
+
+table.dashboard tr th.last,
+table.dashboard tr td.last  {
+    border-bottom: 1px solid #666;
+}
+
+table.dashboard tr th.seperator,
+table.dashboard tr td.seperator {
+    border-left: 1px solid #666;
+    border-right: 1px solid #666;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: #eee;
+    padding: 0px;
+}
+
+.overview th,
+.overview td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+td.icon-link {
+    padding-left: 25px !important;
+}
+
+.row-completed {
+    /* COLOUR_GREEN */
+    color: #22aa22;
+    font-weight: bold;
+}
+
+.row-not-completed {
+    /* COLOUR_ORANGE */
+    color: #e2871b;
+    font-weight: bold;
+}
+
+.row-done-not-requested {
+    /* COLOUR_YELLOW */
+    background-color: #fcf900;
+    font-weight: bold;
+}
+
+.row-current {
+    /* COLOUR_LIGHT_BLUE */
+    background-color: #96beff !important;
+    font-weight: bold;
+}
+
+.inactive {
+    text-decoration: line-through;
+}
+
+.inactive_actions {
+    display: none;
+}
+
+
+#organisation-content {
+    margin-top: 40px;
+}
+
+.action-area {
+    text-align: right;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.icon-link-label,
+.icon-link-label:hover {
+    text-decoration: none;
+}

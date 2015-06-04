@@ -1,0 +1,285 @@
+/*
+    Created on : 27-mrt-2012, 13:09:25
+    Author     : ben.dokter
+    Description:
+        alle layout voor de elementen. de kleuren staan in de betreffende stylesheets
+*/
+
+table {
+    border-collapse: collapse;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.spaced {
+    padding-left:  5px;
+    padding-right: 5px;
+}
+
+div.tab-content-layout {
+    min-width: 800px;
+}
+
+
+/* master detail scherm */
+table.master-detail-layout-helper {
+	width: 100%;
+    border-collapse: collapse;
+}
+
+.action-buttons {
+    text-align: right !important;
+}
+
+/* master panel */
+table.master-block {
+    /* compensatie voor de scrollbalk ruimte anders gaat IE ook hori scrollen */
+    width: 280px;
+}
+
+table.master-detail-layout-helper td.layout-master-panel {
+    width: 300px;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+table.master-control  {
+	width: 100%;
+    margin-top: 5px;
+    border-collapse: collapse;
+}
+
+td.master-row-buttons,
+td#master_buttons {
+    text-align: right;
+}
+
+tr.master-header-row {
+    width: 100%;
+    height: 25px;
+}
+
+td#master-header-title,
+td.master-row-title {
+    padding-bottom: 12px;
+}
+
+tr.hilite-row {
+    /* naar color specifieke */
+    background-color: white;
+    font-weight: bold;
+}
+
+tr.hilite-row a {
+    font-weight: bold;
+    /* naar color specifieke */
+    color: red;
+}
+
+h1.master,
+h2.master {
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+}
+
+td.master_search {
+    width: 100%;
+}
+
+td.master-content {
+    width: 100%;
+}
+
+div.scroll-content {
+    width: 100%;
+    height: 500px;
+    overflow: scroll;
+}
+
+
+/* detail panel */
+table.master-detail-layout-helper td.layout-detail-panel {
+}
+
+table.layout-detail-panel,
+table.detail-navigation,
+table.detail-content {
+	width: 100%;
+    border-collapse: collapse;
+}
+
+tr.detail-top-nav,
+tr.detail-tab-nav {
+    width: 100%;
+}
+
+td.top-buttons {
+    width: 100%;
+    text-align: right;
+    padding: 5px;
+}
+
+td.detail-content {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+
+}
+
+td.form-label,
+td.details-line-label {
+    font-weight: bold;
+}
+
+th.content-title,
+th.details-title {
+    text-transform: lowercase;
+    /* TODO: per thema */
+    color: #666;
+
+}
+.short_hilite {
+    /* TODO: per thema */
+    background-color: yellow;
+}
+
+.hidden-info
+{
+    display: none;
+}
+
+.lastrow {
+    padding-bottom: 10px;
+}
+
+
+.comment {
+    font-style: italic;
+}
+
+.remarks-content {
+    padding-left: 10px;
+/*    border-top: 2px dashed #ddd;*/
+    border-bottom: 2px dotted #ddd;
+    background-color: #eee;
+}
+
+.remarks-content-history {
+    padding-left: 10px;
+    border-bottom: 2px dashed #ddd;
+    background-color: #fff;
+}
+
+.remarks-title {
+    text-align: right;
+    padding-right: 10px;
+}
+
+
+/*div.content-layout {
+	position: relative;	 This fixes the IE7 overflow hidden bug
+	clear: both;
+	float: left;
+	width: 100%;			 width of whole page
+    min-width: 900px;
+	overflow: hidden;		 This chops off any overhanging divs
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+
+div.left-panel {
+	width: 20%;			 left column content width (column width minus left and right padding)
+	left: 10%;			 (right column left and right padding) plus (left column left padding)
+	float: left;
+	position: relative;
+	padding: 0 5px;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+div.right-panel {
+	width: 70%;			 right column content width
+	left: 102%;			 100% plus left column left padding
+ 	float: left;
+	position: relative;
+    margin-top: 10px;
+	padding: 0 1px;
+}
+
+
+
+********
+  left-panel content layout
+********
+
+div.left-panel a:hover {
+    text-decoration: none;
+}
+
+div.left-panel div.left-header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    width: 100%;
+}
+
+div.left-panel div.left-search {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+div.left-panel div.left-top-header {
+    height: 20px;
+}
+
+
+div.left-float {
+    float: left;
+    width: 75%;
+}
+
+div.right-float {
+    float: right;
+    width: 25%;
+    min-width: 40px;
+    text-align: right;
+}
+
+h1.left,
+h2.left {
+    margin:0px;
+    padding: 0px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    width: 80%;
+    display:inline;
+}
+
+div.right-panel div.top_nav_content {
+    float: right;
+}
+*/
+
+.hoveredRow a {
+    text-decoration: underline ! important;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.sub-level {
+    padding-left: 20px;
+}
+
+.wizard-content {
+    /* TODO: per thema */
+    background-color: #eee;
+    padding: 5px;
+    overflow: auto;
+}

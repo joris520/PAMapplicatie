@@ -1,0 +1,218 @@
+/*
+    alle kleuren die bij de afmetingen in layout.css horen
+*/
+
+body,
+html {
+	background: #ffffff;
+	color: #333333;
+}
+
+a {
+    color: #656565;
+}
+
+a:hover {
+    color: #FF0000;
+}
+
+#header_right {
+	color: #656565;
+}
+
+#header_right a {
+    color: #656565;
+}
+
+#header_right a:hover {
+    color: #FF0000;
+}
+
+div.common-footer {
+    border-top-color: #999;
+}
+
+#theme_selection {
+	border-color: #cccccc;
+}
+
+#Menu {
+	background: #dedede;
+}
+
+#Content {
+	background: #ffffff;
+}
+
+#login a {
+    color: #ff0000;
+}
+
+#login a:hover {
+    color: #990000;
+}
+
+#body {
+	/* height:auto !important;  real browsers
+	height:100%; IE6: treaded as min-height
+	min-height:100%; real browsers */
+}
+
+.top_border1px {
+    border-top-color: #999999;
+}
+
+.bottom_border1px {
+    border-bottom-color: #999999;
+}
+
+.bottom_border2px {
+    border-bottom-color: #999999;
+}
+
+/* TOP MALUPET NA TAB */
+.nav_aborder {
+	border-top-color: #999999;
+    border-bottom-color: #999999;
+	background: url(images/default/a_bg.gif) repeat-x #eeeeee;
+    color: #666666;
+}
+
+.nav_aborder a {
+    color: #656565;
+}
+
+.nav_aborder a:hover {
+    color: #656565;
+}
+
+.nav_hborder {
+    border-top-color: #999999;
+    border-bottom: 0px;
+	background: url(images/default/h_bg.gif) repeat-x #ffffff;
+    color: #ff0000;
+}
+
+.nav_hborder a {
+    color: #ff0000;
+}
+
+.nav_hborder a:hover {
+    color: #ff0000;
+
+}
+/* ------ */
+/* EMPLOYEE MALUPIT NA TAB */
+.nav_aEmp {
+	border-top-color: #999999;
+    border-bottom-color: #999999;
+	background: #eeeeee;
+    color: #666666;
+}
+.nav_aEmp a {
+    color: #656565;
+}
+
+.nav_aEmp a:hover {
+    font-size: 12px;
+    color: #656565;
+}
+
+.nav_hEmp {
+    border-top-color: #999999;
+	background: #ffffff;
+    color: #ff0000;
+}
+
+.nav_hEmp a {
+    color: #ff0000;
+}
+
+.nav_hEmp a:hover {
+    color: #ff0000;
+}
+
+/* ------ */
+
+.btn {
+	border-color: #ccc;
+	background: #999;
+	color: #000000;
+	background: url(images/default/btn_bg.gif) repeat-x left top;
+}
+
+.indicator {
+    color: #ff0000;
+}
+
+.activated {
+    color: #ff0000;
+}
+
+.dashed_line {
+    border-bottom-color: #cdcdcd;
+}
+
+.action-area,
+.bottom_line {
+    border-bottom-color: #ddd;
+}
+
+.border1px {
+    border-color: #ccc;
+}
+
+
+.shaded_title {
+    background: #eeeeee;
+}
+
+/* Module User Styles */
+.left_panel {
+    background: #eeeeee;
+    border-right-color: #999999;
+    color: #656565;
+}
+
+.left_panel2 {
+    border-top-color: #999999;
+}
+
+.divLeftWbg {
+    background: #ffffff;
+}
+
+.divLeftWbg a {
+    color: #ff0000;
+}
+
+.divLeftWbg a:hover {
+    color: #656565;
+}
+
+.divLeftRow a {
+    color: #656565;
+}
+
+.divLeftRow a:hover {
+    color: #ff0000;
+}
+
+.right_panel2 {
+    border-top-color: #999999;
+}
+
+.border_bottom {
+    border-bottom-color: #999999;
+}
+
+.history-diff,
+.score-diff {
+    border-color:  #cdcdcd;
+    background-color: #eeeeee;
+}
+
+#simplemodal-container {
+    background-color: white;
+    border-color: #cdcdcd;
+}

@@ -1,0 +1,33 @@
+#mode_departments {
+	width: 100%;
+	/* margin: 5px; */
+	/* border: 1px solid #ccc; */
+	/* padding: 5px; */
+	/*height: 585px; */
+}
+#mode_departments p {
+	padding:0px;
+	margin:0px 0px 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#mod_departments_left {
+	margin: 0px;
+	overflow: auto;
+}
+#mod_departments_left p { font-size: 14px; font-weight: bold; }
+/*.mod_departments_cat_left { width: 60%; float:left; display: block; border-bottom: 1px solid #cdcdcd; }
+.mod_departments_cat_right { width: 35%; float:left; text-align:right; border-bottom: 1px solid #cdcdcd; }*/
+#mod_departments_right {
+	margin: 0px;
+	overflow: auto;
+}
+
+.mod_departments_cat_left {display: block; border-bottom: 1px solid #cdcdcd; padding: 2px 6px; }
+.mod_departments_cat_right {text-align:right; border-bottom: 1px solid #cdcdcd; }
+#mod_departments_right p { font-size: 14px; font-weight: bold; }
+.mod_departments_right_holder { width: 100%; float: left; }
+.mod_departments_comp { width: 50%; float:left; display: block; }
+.mod_departments_scale { width: 20%; float:left; display: block; text-align:center; }
+.mod_departments_actions { width: 30%; float:left; display: block; text-align:right; }

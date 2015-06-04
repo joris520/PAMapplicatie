@@ -1,0 +1,7 @@
+.activeRow {
+    visibility: hidden;
+}
+
+.activatedRow {
+    visibility: visible ! important;
+}
